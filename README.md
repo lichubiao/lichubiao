@@ -24,6 +24,6 @@
 <details>
 <summary>More Repositories ...</summary>
 <a href="https://github.com/lichubiao/agent">
-  <img alt="leoxiaoge" src="https://github-readme-stats.vercel.app/api/pin/?username=leoxiaoge&repo=mall&show_owner=true" />
+  <img alt="leoxiaoge" src="https://github-readme-stats.vercel.app/api/pin/?username=lichubiao&repo=agent&show_owner=true" />
 </a>
 </details>

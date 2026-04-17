@@ -23,7 +23,7 @@
 
 <details>
 <summary>More Repositories ...</summary>
-<a href="https://github.com/leoxiaoge/mall">
+<a href="https://github.com/lichubiao/agent">
   <img alt="leoxiaoge" src="https://github-readme-stats.vercel.app/api/pin/?username=leoxiaoge&repo=mall&show_owner=true" />
 </a>
 </details>
